@@ -1,56 +1,4 @@
 {
-  "quickadd:choice:ed9fddd3-abbf-4297-b225-832e2a4db66d": [],
-  "ghost-fade-focus:toggle-plugin": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "G"
-    }
-  ],
-  "templater-obsidian:templater/archive.js": [],
-  "quickadd:choice:eb233829-e65e-43fd-8fd9-04e2a2ad1f7d": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "I"
-    }
-  ],
-  "quickadd:choice:dce5a11c-82c4-4ca0-9bc4-21ce28f66748": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "W"
-    }
-  ],
-  "obsidian-tasks-plugin:edit-task": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
-  "workspace:new-tab": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "T"
-    }
-  ],
-  "editor:open-link-in-new-leaf": [],
-  "editor:toggle-checklist-status": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
   "quickadd:choice:8b6b717e-27c9-41f9-afb3-073d12e8f61d": [
     {
       "modifiers": [
@@ -59,56 +7,12 @@
       "key": "P"
     }
   ],
-  "editor:insert-wikilink": [
+  "quickadd:choice:dce5a11c-82c4-4ca0-9bc4-21ce28f66748": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Ctrl"
       ],
-      "key": "K"
-    }
-  ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "M"
-    }
-  ],
-  "workspace:edit-file-title": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
-  "workspace:split-vertical": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
-    }
-  ],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
-  "khoj:search": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "L"
+      "key": "W"
     }
   ],
   "app:delete-file": [
@@ -120,21 +24,39 @@
       "key": "D"
     }
   ],
-  "editor:delete-paragraph": [],
-  "obsidian-copy-block-link:copy-embed-to-block": [
+  "daily-notes": [
     {
       "modifiers": [
-        "Ctrl"
+        "Mod"
       ],
-      "key": "R"
+      "key": "D"
     }
   ],
-  "backlink:toggle-backlinks-in-document": [
+  "editor:delete-paragraph": [],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:next-tab": [
     {
       "modifiers": [
         "Ctrl"
       ],
-      "key": "B"
+      "key": "Tab"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
     }
   ],
   "app:toggle-left-sidebar": [
@@ -146,17 +68,57 @@
       "key": "["
     }
   ],
-  "workspace:previous-tab": [],
-  "app:toggle-right-sidebar": [
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "G"
+    }
+  ],
+  "graph:open": [],
+  "editor:insert-wikilink": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "]"
+      "key": "K"
     }
   ],
-  "workspace:next-tab": [],
+  "backlink:open-backlinks": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-copy-block-link:copy-embed-to-block": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [],
+  "workspace:edit-file-title": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
   "editor:toggle-highlight": [
     {
       "modifiers": [
@@ -165,32 +127,49 @@
       "key": "H"
     }
   ],
-  "media-extended:get-timestamp": [
+  "file-explorer:move-file": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "T"
+      "key": "M"
     }
   ],
-  "workspace:undo-close-pane": [],
-  "obsidian-fullscreen-plugin:fullscreen-focus": [
+  "reason:build-enzyme-block-from-selection": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "reason:build-enzyme-response-block-from-selection": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "reason:refine-digest": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "pdf-plus:copy-link-to-selection": [
     {
       "modifiers": [
         "Ctrl",
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
-  "obsidian-copy-block-link:canvas-paste-node-from-embed": [
-    {
-      "modifiers": [
-        "Mod",
         "Shift"
       ],
-      "key": "V"
+      "key": "C"
     }
   ]
 }

@@ -1,0 +1,509 @@
+{
+  "main": {
+    "id": "5c4173730061a534",
+    "type": "split",
+    "children": [
+      {
+        "id": "9412c48ee22094bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9148e087abd0e1d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-09-09-10-29-59.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-09-10-29-59"
+            }
+          },
+          {
+            "id": "331e04ebdc401bb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/abide entrepreneurship chat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "abide entrepreneurship chat"
+            }
+          },
+          {
+            "id": "6919c1cee86430a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-09-12-13-11-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-12-13-11-04"
+            }
+          },
+          {
+            "id": "b1fcf8c89e83f9b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-09-12-14-29-40.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-12-14-29-40"
+            }
+          },
+          {
+            "id": "e8d80ee31ac7cf66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-09-12-17-49-29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-12-17-49-29"
+            }
+          },
+          {
+            "id": "b9300c50d7bc8a24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Books/Art and Faith by Makoto Fujimura and N. T. Wright Highlights.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Art and Faith by Makoto Fujimura and N. T. Wright Highlights"
+            }
+          },
+          {
+            "id": "970461c9fa7fbac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-09-12-19-21-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-12-19-21-15"
+            }
+          },
+          {
+            "id": "34e5ed135649732c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/by fosslaug reflection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "by fosslaug reflection"
+            }
+          },
+          {
+            "id": "af71a690cf3fee3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-07-27 - frederick ii voltaire and berlin rococo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-27 - frederick ii voltaire and berlin rococo"
+            }
+          },
+          {
+            "id": "3dc0033aca412b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-09-12-19-21-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-12-19-21-15"
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "505ad55f2dd9df6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b6fe70045cd1dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-09-11-18-38-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-11-18-38-27"
+            }
+          },
+          {
+            "id": "b648136249755516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-09-12-19-54-34.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-12-19-54-34"
+            }
+          },
+          {
+            "id": "2dd7cbbc307791f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-09-14-22-27-44.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-14-22-27-44"
+            }
+          },
+          {
+            "id": "d0d79c6a0746d23a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-09-14-23-03-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-14-23-03-25"
+            }
+          },
+          {
+            "id": "6598a766eaff199f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-09-14-23-11-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-14-23-11-24"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c96ebb0c0141b4a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "78233b43f0560b4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95c3efb3371973d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3da85e16c08e6484",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "landscape path:inbox",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8a7fc38ef52da76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "077dcc6c2026630a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5580a5c623648c94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caa4497a45003b8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-ghost",
+              "title": "backlink"
+            }
+          },
+          {
+            "id": "427abab7bdc25bc6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-ghost",
+              "title": "outgoing-link"
+            }
+          },
+          {
+            "id": "594debcacffdbc99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "tag"
+            }
+          },
+          {
+            "id": "13df1bbe3809cab3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "d7b2124de7d6dcfc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "outline"
+            }
+          },
+          {
+            "id": "c0ea663311e81a9d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "0c548e1eedeafeb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e9e422271311da63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "inbox/2025-08-14-10-03-01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-08-14-10-03-01"
+            }
+          },
+          {
+            "id": "8126df7c09522ee5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4810ec21f8d73b19",
+            "type": "leaf",
+            "state": {
+              "type": "file-namer-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "File Namer"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "media-extended:Open media": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "obsidian-caterpillage:Copy Tagged Notes": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-inbox-processor:File Namer": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:Manage workspace layouts": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "markdown-importer:Open format converter": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "3dc0033aca412b68",
+  "lastOpenFiles": [
+    "inbox/2025-09-14-23-11-24.md",
+    "inbox/2025-09-14-23-03-25.md",
+    "inbox/2025-09-14-22-27-44.md",
+    "inbox/2025-09-12-19-21-15.md",
+    "inbox/2025-09-14-22-27-38.md",
+    "inbox/2025-09-12-19-54-34.md",
+    "inbox/2025-07-27 - frederick ii voltaire and berlin rococo.md",
+    "inbox/2025-09-12-20-08-14.md",
+    "inbox/2025-09-13-0-05-39.md",
+    "Readwise/Books/Art and Faith by Makoto Fujimura and N. T. Wright Highlights.md",
+    "inbox/by fosslaug reflection.md",
+    "inbox/2025-09-11-18-38-27.md",
+    "inbox/2025-09-12-19-24-09.md",
+    "Readwise/Articles/Malleable Software in the Age of LLMs by geoffreylitt.com Highlights.md",
+    "Readwise/Articles/Texts as Toys by Venkatesh Rao Highlights.md",
+    "inbox/2025-09-12-17-49-29.md",
+    "inbox/2025-09-12-14-29-40.md",
+    "inbox/2025-09-12-15-36-57.md",
+    "inbox/2025-09-12-13-11-04.md",
+    "inbox/abide entrepreneurship chat.md",
+    "inbox/2025-09-09-10-29-59.md",
+    "inbox/2025-09-10-12-04-13.md",
+    "inbox/2025-09-10-11-43-15.md",
+    "inbox/2025-09-09-17-51-07.md",
+    "inbox/2025-09-09-16-42-37.md",
+    "inbox/2025-09-09-21-58-53.md",
+    "IMG_7511.jpeg",
+    "IMG_7508.jpeg",
+    "IMG_6921.png",
+    "IMG_6920.png",
+    "IMG_6757.png",
+    "Readwise/Podcasts",
+    "Readwise/Tweets",
+    "Readwise/Articles",
+    "Readwise/Books",
+    "Readwise",
+    "enzyme-index-config.yaml",
+    "enzyme-config.yaml",
+    "inbox/2025-08-21-18-40-23.md.tmp.59020.1755816126036",
+    "inbox/2025-08-20-13-33-01.md.tmp.94107.1755717091939",
+    "inbox/2025-08-17-12-53-57.md.tmp.97093.1755449798607",
+    "CleanShot 2025-08-15 at 01.56.04@2x.png"
+  ]
+}
