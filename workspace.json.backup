@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "c15a6b7638056090",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f14e59fdf65c0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a88e44a9f3d9f485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-05-22-23-36-56.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-22-23-36-56"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a55f3982d48655f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8d1a149f118b2b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a8bd29d5a400324",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d986b17c7d0d5e9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "155ddbc694bcfc28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ac40c547d464b69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/packing for CO skiing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "packing for CO skiing"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 614.5031242370605,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5ce714df6f5c55f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7d163f304148a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41abff4ed0149433",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "inbox/2025-05-22-23-36-56.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-05-22-23-36-56"
+            }
+          },
+          {
+            "id": "260a6db99350c88f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "inbox/2025-05-22-23-36-56.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-05-22-23-36-56"
+            }
+          },
+          {
+            "id": "0912a11974325bf5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "10659f5e3095ebea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "efae16cb5d0f2915",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "inbox/2025-05-22-23-36-56.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-05-22-23-36-56"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "a88e44a9f3d9f485",
+  "lastOpenFiles": [
+    "obsidian_plugins_backup_20250808_140818/obsidian-copy-block-link/src/obsidian",
+    "obsidian_plugins_backup_20250808_140818/templater-obsidian/manifest.json",
+    "obsidian_plugins_backup_20250808_140818/templater-obsidian/styles.css",
+    "obsidian_plugins_backup_20250808_140818/templater-obsidian/main.js",
+    "obsidian_plugins_backup_20250808_140818/templater-obsidian/data.json",
+    "obsidian_plugins_backup_20250808_140818/safe-filename-linter/manifest.json",
+    "obsidian_plugins_backup_20250808_140818/safe-filename-linter/main.js",
+    "obsidian_plugins_backup_20250808_140818/renamer/versions.json",
+    "obsidian_plugins_backup_20250808_140818/renamer/styles.css",
+    "obsidian_plugins_backup_20250808_140818/renamer/data.json",
+    "obsidian_plugins_backup_20250808_140818/renamer/manifest.json",
+    "inbox/2025-05-22-23-36-56.md",
+    "inbox/2025-08-06-15-22-59.md",
+    "inbox/Navigating the Friend-as-Financial-Advisor Decision.md",
+    "inbox/2025-07-31 - copenhagen design museum wireframes as sketch.md",
+    "inbox/2025-08-07-12-09-30.md",
+    "inbox/2025-08-07-10-47-13.md",
+    "inbox/2025-08-08-12-00-46.md",
+    "Readwise/Articles/The Intrigue of Human Error by Inkwell Highlights.md",
+    "Readwise/Podcasts/How to Be a Good Intelligence Analyst by Statecraft Highlights.md",
+    "inbox/2025-08-02-22-49-50.md",
+    "inbox/2025-07-19 - clouds over peaks and landscape photography.md",
+    "inbox/2025-04-17-21-35-27.md",
+    "inbox/2024-10-29-2-46-15.md",
+    "inbox/2024-12-21-08-05-19.md",
+    "inbox/2024-11-06-20-51-30.md",
+    "inbox/The Art of Profitable Constraints - Building sustainable businesses through intentional intimacy.md",
+    "transcribed/2025-07-31 - copenhagen black diamond hospitality and wandering.md",
+    "transcribed/2025-07-23 001 - lourdes reflection on validation creativity and relationships.md",
+    "inbox/2025-07-31 - bird escape hart cafe hospitality enframing.md",
+    "inbox/2025-07-29 - neue nationalgalerie gerhard richter process.md",
+    "inbox/2025-07-27 - vietnamese restaurants berlin upscale.md",
+    "inbox/2025-07-27 - frederick ii voltaire and berlin rococo.md",
+    "inbox/2025-07-24 - single word note.md",
+    "inbox/2025-07-24 - duck confit border crossing and enframing.md",
+    "inbox/2025-07-23 - desert fathers pace and daily joy.md",
+    "IMG_6597.png",
+    "IMG_6596.png",
+    "image 21.jpg",
+    "image 20.jpg",
+    "image 19.jpg",
+    "IMG_6591.jpeg",
+    "IMG_6592.jpeg",
+    "IMG_6590.jpeg",
+    "IMG_6587.jpeg",
+    "IMG_6588.jpeg",
+    "reason/reason_canvas.canvas",
+    "reason/REASON Canvas.canvas",
+    "reason/REASON Canvas copy.canvas"
+  ]
+}

@@ -1,0 +1,1096 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "c15a6b7638056090",
+        "type": "split",
+        "children": [
+          {
+            "id": "49384d7a28f55f75",
+            "type": "tabs",
+            "dimension": 25.564562825709324,
+            "children": [
+              {
+                "id": "5d70ab7b0b5ed89b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-17-12-53-57.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-17-12-53-57"
+                }
+              },
+              {
+                "id": "d9cf43107b48d76d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-20-22-47-33.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-20-22-47-33"
+                }
+              },
+              {
+                "id": "89c912f381d7d475",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-23-22-30-15.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-23-22-30-15"
+                }
+              },
+              {
+                "id": "25295f64e0a73b72",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-15-23-14-13.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-15-23-14-13"
+                }
+              },
+              {
+                "id": "53f12904dc1e5171",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-25-17-56-40.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-25-17-56-40"
+                }
+              },
+              {
+                "id": "86821961f496840c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-16-0-09-24.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-16-0-09-24"
+                }
+              },
+              {
+                "id": "cfe5c8913d61d612",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-12-13-45-13.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-12-13-45-13"
+                }
+              },
+              {
+                "id": "2ba9582dd2c93193",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-11-16-08-38.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-11-16-08-38"
+                }
+              },
+              {
+                "id": "3ec24245c97d7174",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "personal/raw notes from scott belsky spc event.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "raw notes from scott belsky spc event"
+                }
+              },
+              {
+                "id": "dfa8242207acb0b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-06-15-27-38.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-06-15-27-38"
+                }
+              },
+              {
+                "id": "4154ad506529b268",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-01-15-35-30.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-01-15-35-30"
+                }
+              },
+              {
+                "id": "41e84f775d3ea0b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-05-12-44-06.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-05-12-44-06"
+                }
+              },
+              {
+                "id": "0ae958a685ad3cef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-05-18-46-09.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-05-18-46-09"
+                }
+              },
+              {
+                "id": "70e8993f9adea963",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-05-19-05-54.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-05-19-05-54"
+                }
+              },
+              {
+                "id": "4061c0007be0317c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-05-16-49-22.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-05-16-49-22"
+                }
+              },
+              {
+                "id": "525144db9fd76177",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-05-13-52-57.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-05-13-52-57"
+                }
+              },
+              {
+                "id": "5f2e05c65c21b675",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-04-05-12-44-06.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-05-12-44-06"
+                }
+              },
+              {
+                "id": "4026dccbfd8ecf60",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/convo notes for scott belsky.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "convo notes for scott belsky"
+                }
+              },
+              {
+                "id": "2b4278b4d49734da",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "daily/2025-03-24.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-03-24"
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "d13c32d5293d4594",
+            "type": "tabs",
+            "dimension": 25.564562825709324,
+            "children": [
+              {
+                "id": "a20b37d5c2182669",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "transcribed/2025-07-30 001 - faith identity technology values narrative.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-07-30 001 - faith identity technology values narrative"
+                }
+              },
+              {
+                "id": "df8cde2f659c34f6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-08-05-11-45-58.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-08-05-11-45-58"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "040affd53dfd138c",
+            "type": "split",
+            "dimension": 21.077012159814704,
+            "children": [
+              {
+                "id": "98c910616140f169",
+                "type": "tabs",
+                "dimension": 86.14363778298204,
+                "children": [
+                  {
+                    "id": "c194bdb95fe6d9d1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/post spotify task list.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "post spotify task list"
+                    }
+                  },
+                  {
+                    "id": "09d005eec90bd846",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/specific enzyme value props - research with gemini and kazanjy and bier.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "specific enzyme value props - research with gemini and kazanjy and bier"
+                    }
+                  },
+                  {
+                    "id": "71dcb1b6f2a3cd81",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-05-07-21-31-47.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-05-07-21-31-47"
+                    }
+                  },
+                  {
+                    "id": "b3167206b64c0367",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-06-10-16-31-55.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-06-10-16-31-55"
+                    }
+                  },
+                  {
+                    "id": "9054ae1790a43b37",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-06-11-15-07-11.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-06-11-15-07-11"
+                    }
+                  },
+                  {
+                    "id": "36e1011b901c0fc6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-06-11-17-37-54.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-06-11-17-37-54"
+                    }
+                  },
+                  {
+                    "id": "6cf401d5ded18368",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-07-25-1-24-18.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-07-25-1-24-18"
+                    }
+                  },
+                  {
+                    "id": "983f9974d7b680c1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-07-28-11-51-11.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-07-28-11-51-11"
+                    }
+                  },
+                  {
+                    "id": "4737dbb1c1e01647",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-07-28-12-09-48.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-07-28-12-09-48"
+                    }
+                  },
+                  {
+                    "id": "13271d0521364a49",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-07-28-12-14-54.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-07-28-12-14-54"
+                    }
+                  },
+                  {
+                    "id": "7c8d12c2ed91f713",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-07-25-1-42-33.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-07-25-1-42-33"
+                    }
+                  }
+                ],
+                "currentTab": 9
+              },
+              {
+                "id": "19f14e59fdf65c0f",
+                "type": "tabs",
+                "dimension": 13.856362217017953,
+                "children": [
+                  {
+                    "id": "5e8fd01be415caf4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-05-07-11-18-41.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-05-07-11-18-41"
+                    }
+                  },
+                  {
+                    "id": "04d4a714843adea8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-04-06-05-07-09.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-04-06-05-07-09"
+                    }
+                  },
+                  {
+                    "id": "16c4dafa3d1060d3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-03-16-13-30-51.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-03-16-13-30-51"
+                    }
+                  },
+                  {
+                    "id": "893339c956b735b7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-05-10-19-44-30.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-05-10-19-44-30"
+                    }
+                  },
+                  {
+                    "id": "ef612af114013cf9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-05-10-20-01-46.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-05-10-20-01-46"
+                    }
+                  },
+                  {
+                    "id": "bf0e831322f975d2",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-05-12-17-39-05.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-05-12-17-39-05"
+                    }
+                  },
+                  {
+                    "id": "1b0fbd5410ea5af2",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-05-13-19-03-45.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-05-13-19-03-45"
+                    }
+                  },
+                  {
+                    "id": "931097df59230c79",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "daily/2025-06-02.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-06-02"
+                    }
+                  },
+                  {
+                    "id": "5ec377cbd59745c5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "enzyme_project_notes/personal/log/cursor_exploring_consulting_career_path.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "cursor_exploring_consulting_career_path"
+                    }
+                  },
+                  {
+                    "id": "a88e44a9f3d9f485",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "inbox/2025-05-22-23-36-56.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-05-22-23-36-56"
+                    }
+                  }
+                ],
+                "currentTab": 8
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "15eac07f1d500adc",
+            "type": "tabs",
+            "dimension": 27.793862188766642,
+            "children": [
+              {
+                "id": "e1593d1a3c286c9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/post spotify task list.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "post spotify task list"
+                }
+              },
+              {
+                "id": "cd981906f8a2b313",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "daily/2025-05-12.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-05-12"
+                }
+              },
+              {
+                "id": "01c6d50b3607c57a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-05-12-14-32-18.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-05-12-14-32-18"
+                }
+              },
+              {
+                "id": "644543084dca9ecf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-05-13-10-17-58.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-05-13-10-17-58"
+                }
+              },
+              {
+                "id": "240a7f321f417839",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "daily/2025-05-22.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-05-22"
+                }
+              },
+              {
+                "id": "0bd90e4e85b978f1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "daily/2025-05-27.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-05-27"
+                }
+              },
+              {
+                "id": "c266c792469c004d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "daily/2025-06-11.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-06-11"
+                }
+              },
+              {
+                "id": "390d6f5058ccb5b9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-05-26-13-32-24.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-05-26-13-32-24"
+                }
+              },
+              {
+                "id": "90d516425dac2202",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-06-14-19-21-03.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-06-14-19-21-03"
+                }
+              },
+              {
+                "id": "ecdb1aeea8e355c2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "daily/2025-06-17.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-06-17"
+                }
+              },
+              {
+                "id": "243bf2a48a4b357e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-06-17-9-13-11.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-06-17-9-13-11"
+                }
+              },
+              {
+                "id": "72d4823ef598ff3e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-06-17-13-21-24.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-06-17-13-21-24"
+                }
+              },
+              {
+                "id": "a18aacf62ef42197",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-06-17-13-51-55.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-06-17-13-51-55"
+                }
+              },
+              {
+                "id": "91d1c9c2b21abe9f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-06-10-16-31-55.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-06-10-16-31-55"
+                }
+              },
+              {
+                "id": "faaf4fd6b627dc04",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-06-10-16-31-55.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-06-10-16-31-55"
+                }
+              },
+              {
+                "id": "a23d01f0fded752f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-05-07 004 - leaving spotify embracing change.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-05-07 004 - leaving spotify embracing change"
+                }
+              },
+              {
+                "id": "6785422fc494de04",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-07-16-0-49-21.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-07-16-0-49-21"
+                }
+              },
+              {
+                "id": "fdca85536db75ef1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2025-07-24-20-10-20.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-07-24-20-10-20"
+                }
+              }
+            ],
+            "currentTab": 17
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a55f3982d48655f4",
+        "type": "split",
+        "children": [
+          {
+            "id": "e8d1a149f118b2b1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2a8bd29d5a400324",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "d986b17c7d0d5e9d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byCreatedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "155ddbc694bcfc28",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "ac40c547d464b69d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "personal/packing for CO skiing.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "packing for CO skiing"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 389.50312423706055,
+        "collapsed": true
+      },
+      "right": {
+        "id": "5ce714df6f5c55f7",
+        "type": "split",
+        "children": [
+          {
+            "id": "d7d163f304148a79",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9dbb6bffe97b0754",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "calendar"
+                }
+              },
+              {
+                "id": "766aba94e9e7860c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "inbox/2025-04-05-19-05-54.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-04-05-19-05-54"
+                }
+              },
+              {
+                "id": "41abff4ed0149433",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "inbox/2025-04-05-19-05-54.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-04-05-19-05-54"
+                }
+              },
+              {
+                "id": "45b345aef5d16e50",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "fbeb6f62933986fa",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "27cb7db77023b726",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "inbox/2025-04-05-19-05-54.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-04-05-19-05-54"
+                }
+              },
+              {
+                "id": "3e6d2547ccaa3ed8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-namer-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "file-namer-view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 262.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "fdca85536db75ef1",
+      "mtime": "2025-08-06T11:55:29-04:00"
+    }
+  },
+  "active": "default"
+}
