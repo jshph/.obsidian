@@ -1,2 +1,19 @@
-plugins/
+# Ignore plugin folders except essential files
+plugins/*
+!plugins/*/manifest.json
+!plugins/*/data.json
+!plugins/*/main.js
+!plugins/*/styles.css
+
+# Exclude plugins with sensitive information entirely
+plugins/reason/
+plugins/renamer/
+plugins/readwise-official/
+plugins/obsidian-chat-stream/
+
 custom_plugins/
+
+# Workspace configuration files (these contain user-specific state)
+workspace.json
+workspace-mobile.json
+workspaces.json

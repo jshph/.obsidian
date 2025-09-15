@@ -68,7 +68,8 @@ These plugins are installed but not essential for core functionality:
 ## Folder Structure
 
 ```
-.obsidian/
+vault/                  # Vault root directory
+├── .obsidian/          # Configuration directory (git tracked)
 ├── inbox/              # Quick captures and new notes (timestamped)
 ├── daily/              # Daily notes
 ├── templates/          # Note templates
@@ -77,6 +78,8 @@ These plugins are installed but not essential for core functionality:
 ├── projects/          # Active projects
 └── archive/           # Archived content
 ```
+
+**Note:** The `templates/` folder in the vault root should be synced from `.obsidian/templates/` (which is tracked in git) to ensure templates are accessible to Obsidian's template features.
 
 ## Key Configurations
 
@@ -114,7 +117,10 @@ mkdir -p "$VAULT_PATH"/{inbox,daily,templates,attachments,MOCs,projects,archive}
 cp app.json "$VAULT_PATH/.obsidian/"
 cp core-plugins.json "$VAULT_PATH/.obsidian/"
 cp hotkeys.json "$VAULT_PATH/.obsidian/"
-cp workspace.json "$VAULT_PATH/.obsidian/"
+# Note: workspace.json is user-specific and should not be copied
+
+# Copy templates from .obsidian to vault root
+cp -r .obsidian/templates "$VAULT_PATH/templates"
 ```
 
 ### Step 3: Install Essential Plugins
